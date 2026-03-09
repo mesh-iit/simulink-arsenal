@@ -23,9 +23,9 @@ The latter option is recommended, as it allows you to easily update the `Simulin
 To this end, follow the MathWorks [instructions](https://www.mathworks.com/help/simulink/slref/organize-project-into-components-using-submodules.html).
 
 Once you have added the `Simulink Arsenal` to your project, you can start using its components via the Library Browser.
-The library is called: **iCub Tech Arsenal**.
+The library is called: **MESH Arsenal**.
 
-![LB](/assets/LB_screenshot.png)
+![LB](./assets/LB_screenshot.png)
 
 > [!note]
 > Remember that Git does not clone automatically submodules.
