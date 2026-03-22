@@ -3,6 +3,7 @@
 
 # Simscape Components
 - [HFUC_8_2A Harmonic Drive](./simscape_components/HFUC_8_2A/)
+- [DC Motor Drive](./simscape_components/dc_motor_drive/)
 
 # Filters
 - [Discrete Minimum Jerk Filter](./filters/discrete_minimum_jerk/)
